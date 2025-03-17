@@ -1,0 +1,17 @@
+{
+  "app": {
+    "nextjs-logo": "Next.js logo",
+    "get-started-editing_component0": "src/app/page.js",
+    "get-started-editing": "Get started by editing {component0} .",
+    "save-and-see-changes": "Save and see your changes instantly.",
+    "deploy-now": " Deploy now",
+    "vercel-logomark": "Vercel logomark",
+    "read-our-docs": "Read our docs",
+    "learn": " Learn",
+    "file-icon": "File icon",
+    "examples": " Examples",
+    "window-icon": "Window icon",
+    "go-to-nextjs-org": " Go to nextjs.org →",
+    "globe-icon": "Globe icon"
+  }
+}

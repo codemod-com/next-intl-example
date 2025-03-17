@@ -24,12 +24,12 @@ export default async function RootLayout({ children }) {
   return (
     <NextIntlClientProvider messages={messages}>
       <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
-    </html>
+        <body
+          className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        >
+          {children}
+        </body>
+      </html>
     </NextIntlClientProvider>
   );
 }
